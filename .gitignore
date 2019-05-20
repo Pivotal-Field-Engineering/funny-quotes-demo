@@ -22,7 +22,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-/publish/
+#/publish/
 /publish.bak/
 tmp
 
