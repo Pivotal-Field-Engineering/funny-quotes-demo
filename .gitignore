@@ -22,7 +22,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-/publish/
+#/publish/
 /publish.bak/
 tmp
 
@@ -140,7 +140,7 @@ DocProject/Help/Html2
 DocProject/Help/html
 
 # Click-Once directory
-publish/
+#publish/
 
 # Publish Web Output
 *.[Pp]ublish.xml
